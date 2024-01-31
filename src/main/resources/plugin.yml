@@ -1,0 +1,7 @@
+name: "SpeedDiamond"
+version: "1.0"
+main: "vb.$speeddiamond.PluginMain"
+api-version: 1.13
+authors: [teafear]
+commands:
+permissions:
