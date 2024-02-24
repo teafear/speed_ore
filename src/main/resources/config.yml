@@ -1,0 +1,54 @@
+
+#Уголь
+
+Coal_Ore_Duration: 0 # Длительность
+Coal_Ore_Amplifier: 0 # Уровень
+
+Deepslate_Coal_Ore_Duration: 0 # Длительнось
+Deepslate_Coal_Ore_Amplifier: 0 # Уровень
+
+#Медь
+
+Copper_Ore_Duration: 0 # Длительность
+Copper_Ore_Amplifier: 0 # Уровень
+
+Deepslate_Copper_Ore_Duration: 0 # Длительность
+Deepslate_Copper_Ore_Amplifier: 0 # Уровень
+
+#Аметист
+
+Amethyst_Block_Duration: 0 # Длительность
+Amethyst_Block_Amplifier: 0 # Уровень
+
+#Железо
+
+Iron_Ore_Duration: 0 # Длительность
+Iron_Ore_Amplifier: 0 # Уровень
+
+Deepslate_Iron_Ore_Duration: 0 # Длительность
+Deepslate_Iron_Ore_Amplifier: 0 # Уровень
+
+#gold
+
+Gold_Ore_Duration: 0 # Длительность
+Gold_Ore_Amplifier: 0 # Уровень
+
+Deepslate_Gold_Ore_Duration: 0 # Длительность
+Deepslate_Gold_Ore_Amplifier: 0 # Уровень
+
+Nether_Gold_Ore_Duration: 0 # Длительность
+Nether_Gold_Ore_Amplifier: 0 # Уровень
+
+#diamond
+
+Diamond_Ore_Duration: 80 # Длительность
+Diamond_Ore_Amplifier: 2 # Уровень
+
+Deepslate_Diamond_Ore_Duration: 80 # Длительность
+Deepslate_Diamond_Ore_Amplifier: 3 # Уровень
+
+#незерит
+Ancient_Debris_Duration: 120 # Длительность
+Ancient_Debris_Amplifier: 2 # Уровень
+
+# https://teafear.by/

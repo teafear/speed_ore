@@ -1,0 +1,8 @@
+name: "SpeedOre"
+version: "1.1"
+main: "vb.$speedore.PluginMain"
+api-version: 1.13
+authors: [teafear]
+website: "https://teafear.by"
+commands:
+permissions:
